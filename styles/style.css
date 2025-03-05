@@ -57,7 +57,7 @@
   padding: 92px 50px 96px 50px;
 }
 
-.header__menu{
+.header__menu {
   display: flex;
   align-items: center;
   gap: 33px;
@@ -286,7 +286,7 @@
   width: auto;
 }
 
-.footer__menu{
+.footer__menu {
   text-align: center;
   list-style-type: none;
 }
